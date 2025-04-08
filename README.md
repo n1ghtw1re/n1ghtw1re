@@ -4,18 +4,15 @@ Welcome to the official GitHub for **N1ghtw1re Studios** — a digital studio fo
 
 We build open, ethical, and human-centered technology.
 
+Our Website: **[N1ghtw1re Studios](https://n1ghtw1re-studios.lovable.app)**
+
 ---
 
 ## 🧰 Projects & Tools
 
 Explore our growing suite of free, secure, and community-driven tools. We believe that the internet should serve people — not corporations.
 
-- **[PageCrypt](https://n1ghtw1re-studios.lovable.app/tools/pagecrypt)** — Simple, client-side HTML encryption. Lock pages with a password, no server needed.
-- **[ZeroBin Hosting](https://n1ghtw1re-studios.lovable.app/tools/zerobin)** — Anonymous, ephemeral pastebin. Hosted tools for sharing encrypted messages or code.
-- **[Kiwix on USB](https://n1ghtw1re-studios.lovable.app/tools/kiwix-usb)** — Run a local, offline copy of Wikipedia. Perfect for disconnected areas or secure research.
-- **[Tor Mirror Generator](https://n1ghtw1re-studios.lovable.app/tools/tor-mirror)** — Clone and serve your static site on the Tor network for resilience and privacy.
-- **[Basic Nginx Hardened Config](https://n1ghtw1re-studios.lovable.app/tools/nginx)** — A starting point for secure and fast Nginx deployment.
-- **[WARC Mirror Tools](https://n1ghtw1re-studios.lovable.app/tools/warc)** — Tools for archiving and self-hosting static site snapshots using `.warc` files.
+- **[M2DOC](https://n1ghtw1re-studios.lovable.app/tools/pagecrypt)** — Simple, client-side markdown to doc conversion tool that retains markdown formatting. 
 
 Our tools are:
 - 🕵️ Privacy-focused
@@ -35,6 +32,9 @@ We offer professional services for mission-aligned individuals and small teams:
 
 If you're building something important and want to do it **outside the algorithmic panopticon**, we’d love to help.
 
+Portfolio
+- **[Interlinked Records](https://interlinked-records.lovable.app/)** — Digital underground techno label based in Siem Reap.
+- **[TheDonStone](https://thedonstone.lovable.app/)** — DJ portfolio website with a retro terminal design.  
 ---
 
 ## 🛡️ Core Principles
