@@ -12,7 +12,7 @@ Our Website: **[N1ghtw1re Studios](https://n1ghtw1re-studios.lovable.app)**
 
 Explore our growing suite of free, secure, and community-driven tools. We believe that the internet should serve people — not corporations.
 
-- **[M2DOC](https://n1ghtw1re-studios.lovable.app/tools/pagecrypt)** — Simple, client-side markdown to doc conversion tool that retains markdown formatting. 
+- **[M2DOC](https://deft-blancmange-70482c.netlify.app/)** — Simple, client-side markdown to doc conversion tool that retains markdown formatting. 
 
 Our tools are:
 - 🕵️ Privacy-focused
