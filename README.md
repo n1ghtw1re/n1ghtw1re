@@ -54,7 +54,7 @@ This GitHub will be the home for:
 - Contributions to the open-source ecosystem
 - Documentation and usage examples
 
-**[Works in Progress](https://github.com/stars/n1ghtw1re/lists/n1ghtw1re-in-progress))** — You can check out our upcoming project 🏗️ under construction.
+**[Works in Progress](https://github.com/stars/n1ghtw1re/lists/n1ghtw1re-in-progress)** — You can check out our upcoming project 🏗️ under construction.
 ---
 
 ## 📬 Contact
