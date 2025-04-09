@@ -54,8 +54,7 @@ This GitHub will be the home for:
 - Contributions to the open-source ecosystem
 - Documentation and usage examples
 
-We’re currently organizing codebases, and more projects will be published soon. Stay tuned.
-
+**[Works in Progress](https://github.com/stars/n1ghtw1re/lists/n1ghtw1re-in-progress))** — You can check out our upcoming project 🏗️ under construction.
 ---
 
 ## 📬 Contact
