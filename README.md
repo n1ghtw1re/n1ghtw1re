@@ -20,7 +20,6 @@ Explore our growing suite of free, secure, and community-driven tools. We believ
 Our tools are:
 - 🕵️ Privacy-focused
 - 🧱 Static, simple, and inspectable
-- 🐧 Linux-first, but cross-platform
 - 🛠️ Built for real-world resilience
 
 ---
