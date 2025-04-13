@@ -13,6 +13,7 @@ Our Website: **[N1ghtw1re Studios](https://n1ghtw1re-studios.lovable.app)**
 Explore our growing suite of free, secure, and community-driven tools. We believe that the internet should serve people — not corporations.
 
 - **[App Finalization Checklist](https://github.com/n1ghtw1re/app-finalization-checklist)** — AI Prompt that helps you finalize projects created with AI tools like Lovable and Bolt.
+- **[Codex Reader](https://github.com/n1ghtw1re/codex-reader)** - A simple e-reader that you can add to your own site.
 - **[MD2DOC](https://deft-blancmange-70482c.netlify.app/)** — Simple, client-side markdown to doc conversion tool that retains markdown formatting.
 - **[Neocities Template Tool](https://github.com/n1ghtw1re/Neocities_Template_Tool)** - A 3-column template that can help you create retro-styled/Geocities/Neocities style websites.
 - **[The Collective Links](https://github.com/n1ghtw1re/the-collective-links-tool)** - A self-contained blogroll/link list that works great in an iframe.
