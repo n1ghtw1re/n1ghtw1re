@@ -38,7 +38,7 @@ If you're building something important and want to do it **outside the algorithm
 Portfolio
 - **[Interlinked Records](https://interlinked-records.lovable.app/)** — Digital underground techno label based in Siem Reap.
 - **[TheDonStone](https://thedonstone.lovable.app/)** — DJ portfolio website with a retro terminal design.
-- **{N1ghtw1re Neocities](https://n1ghtw1re.neocities.org/)** Our home on Neocities retrowebsite hosting.
+- **[N1ghtw1re Neocities](https://n1ghtw1re.neocities.org/)** Our home on Neocities retrowebsite hosting.
 ---
 
 ## 🛡️ Core Principles
