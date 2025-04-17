@@ -37,9 +37,10 @@ We offer professional services for mission-aligned individuals and small teams:
 If you're building something important and want to do it **outside the algorithmic panopticon**, we’d love to help.
 
 Portfolio
+- **[Circuit Breach](https://circuit-breach.neocities.org/)** — Cyberpunk blog focusing on the themes, philospphy and impact of the genre on the modern world.
 - **[Interlinked Records](https://interlinked-records.lovable.app/)** — Digital underground techno label based in Siem Reap.
-- **[TheDonStone](https://thedonstone.lovable.app/)** — DJ portfolio website with a retro terminal design.
 - **[N1ghtw1re Neocities](https://n1ghtw1re.neocities.org/)** Our home on Neocities retrowebsite hosting.
+- **[TheDonStone](https://thedonstone.lovable.app/)** — DJ portfolio website with a retro terminal design.
 ---
 
 ## 🛡️ Core Principles
