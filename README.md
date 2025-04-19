@@ -16,7 +16,7 @@ Explore our growing suite of free, secure, and community-driven tools. We believ
 - **[Codex Reader](https://github.com/n1ghtw1re/codex-reader)** - A simple e-reader that you can add to your own site.
 - **[MD2DOC](https://deft-blancmange-70482c.netlify.app/)** — Simple, client-side markdown to doc conversion tool that retains markdown formatting.
 - **[Neocities Template Tool](https://github.com/n1ghtw1re/Neocities_Template_Tool)** - A 3-column template that can help you create retro-styled/Geocities/Neocities style websites.
-- **[ShrinkRay](https://github.com/n1ghtw1re/ShrinkRay))** - Optimize images and convert them to the modern WebP format with a neon cyberpunk flair. 
+- **[ShrinkRay](https://github.com/n1ghtw1re/ShrinkRay)** - Optimize images and convert them to the modern WebP format with a neon cyberpunk flair. 
 - **[System News](https://github.com/n1ghtw1re/n1ghtw1re-system-news/tree/main)** - A small, simple news display for your website or app. 
 - **[The Collective Links](https://github.com/n1ghtw1re/the-collective-links-tool)** - A self-contained blogroll/link list that works great in an iframe.
 
