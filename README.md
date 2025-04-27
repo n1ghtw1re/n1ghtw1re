@@ -57,17 +57,6 @@ Portfolio
 
 ---
 
-## 🚧 Work in Progress
-
-This GitHub will be the home for:
-- Public versions of our privacy tools
-- Source code for client projects (where open-source is allowed)
-- Contributions to the open-source ecosystem
-- Documentation and usage examples
-
-**[Works in Progress](https://github.com/stars/n1ghtw1re/lists/n1ghtw1re-in-progress)** — You can check out our upcoming project 🏗️ under construction.
----
-
 ## 📬 Contact
 
 Questions, ideas, collaborations?  
