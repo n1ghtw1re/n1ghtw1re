@@ -39,6 +39,7 @@ If you're building something important and want to do it **outside the algorithm
 
 Portfolio
 - **[Circuit Breach](https://circuit-breach.neocities.org/)** — Cyberpunk blog focusing on the themes, philospphy and impact of the genre on the modern world.
+- **[Code Heroes](https://code-heroes.netlify.app/)** - Celebrating the pioneers who made technology a force for good.
 - **[Interlinked Records](https://interlinked-records.lovable.app/)** — Digital underground techno label based in Siem Reap.
 - **[N1ghtw1re Neocities](https://n1ghtw1re.neocities.org/)** Our home on Neocities retrowebsite hosting.
 - **[Project 2028](https://preview--project-2028.lovable.app/)** - Political activist site that offers an alternative vision to isolationist, authoritarian, and oligarchic tendencies.
