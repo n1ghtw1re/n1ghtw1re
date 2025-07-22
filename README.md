@@ -4,7 +4,8 @@ Welcome to the official GitHub for **N1ghtw1re Studios** — a digital studio fo
 
 We build open, ethical, and human-centered technology.
 
-Our Website: **[N1ghtw1re Collective](https://n1ghtw1re.com)**
+Our Website: **[N1ghtw1re Studios](https://studio.n1ghtw1re.com/)**
+The Collective: **[N1ghtw1re Collective](https://n1ghtw1re.com)**
 
 ---
 
@@ -19,6 +20,7 @@ Explore our growing suite of free, secure, and community-driven tools. We believ
 - **[ShrinkRay](https://github.com/n1ghtw1re/ShrinkRay)** - Optimize images and convert them to the modern WebP format with a neon cyberpunk flair. 
 - **[System News](https://github.com/n1ghtw1re/n1ghtw1re-system-news/tree/main)** - A small, simple news display for your website or app. 
 - **[The Collective Links](https://github.com/n1ghtw1re/the-collective-links-tool)** - A self-contained blogroll/link list that works great in an iframe.
+- **[The Collector](https://collector.n1ghtw1re.com/)** - Track your comic collection, manage your reading list, blog about your collection, and discover insights about your comic preferences.
 
 Our tools are:
 - 🕵️ Privacy-focused
@@ -38,15 +40,18 @@ We offer professional services for mission-aligned individuals and small teams:
 If you're building something important and want to do it **outside the algorithmic panopticon**, we’d love to help.
 
 Portfolio
+You can find the latest sites we've been workin on here - **[The N1ghtw1re Collective](https://n1ghtw1re.com/collective)**
+
 - **[Circuit Breach](https://circuit-breach.neocities.org/)** — Cyberpunk blog focusing on the themes, philospphy and impact of the genre on the modern world.
-- **[Code Heroes](https://code-heroes.netlify.app/)** - Celebrating the pioneers who made technology a force for good.
-- **[Interlinked Records](https://interlinked-records.lovable.app/)** — Digital underground techno label based in Siem Reap.
+- **[Code Heroes](https://code-heroes.n1ghtw1re.com/)** - Celebrating the pioneers who made technology a force for good.
+- **[Into Ideaspace](https://ideaspace.n1ghtw1re.com/)** — A manifesto for digital liberation in an age of corporate dreams.
+- **[Interlinked Records](https://interlinked.n1ghtw1re.com/)** — Digital underground techno label based in Siem Reap.
 - **[N1ghtw1re Neocities](https://n1ghtw1re.neocities.org/)** Our home on Neocities retrowebsite hosting.
-- **[Project 2028](https://preview--project-2028.lovable.app/)** - Political activist site that offers an alternative vision to isolationist, authoritarian, and oligarchic tendencies.
-- **[Synapse Express](https://synapse-express.netlify.app/)** — Worldwide mnemonic courier service providing discreet and secure data transportation.
-- **[Taco Bell San Angeles](https://taco-bell-sanangeles.netlify.app/)** — Visit the website of the only restaurant to survive the Franchise Wars, Taco Bell.
-- **[TheDonStone](https://thedonstone.lovable.app/)** — DJ portfolio website with a retro terminal design.
-- **[Vinyl Violence](https://vinyl-violence.netlify.app/)** — Music blog showcasing the best albums of all time. 
+- **[Synapse Express](https://synapse.n1ghtw1re.com/)** — Worldwide mnemonic courier service providing discreet and secure data transportation.
+- **[Taco Bell San Angeles](https://tacobell.n1ghtw1re.com/)** — Visit the website of the only restaurant to survive the Franchise Wars, Taco Bell.
+- **[TheDonStone](https://thedonstone.n1ghtw1re.com/)** — DJ portfolio website with a retro terminal design.
+- **[The Hacker's Tarot](https://hackers-tarot.n1ghtw1re.com/)** — A cyberpunk reinterpretation of the classic tarot for the digital age. Explore the cards, get a reading, or dive into the digital unknown.
+- **[The Running Man](https://running-man.n1ghtw1re.com/)** - A satiracal fan fiction site based on the classic Arnold film. 
 ---
 
 ## 🛡️ Core Principles
@@ -61,11 +66,12 @@ Portfolio
 ## 📬 Contact
 
 Questions, ideas, collaborations?  
-Reach out via the site: [n1ghtw1re-studios.lovable.app](https://n1ghtw1re-studios.lovable.app/)  
+Reach out via the site: [n1ghtw1re-studios.lovable.app](https://studio.n1ghtw1re.com)  
 (We don’t track you. We don’t harvest your data. We actually mean that.)
 
 ---
 
 > _“The future belongs to those who own their tools.”_  
 > — N1ghtw1re Studios
+
 
