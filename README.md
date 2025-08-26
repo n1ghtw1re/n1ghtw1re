@@ -47,28 +47,45 @@ Got it — I’ll reformat the list into the clean one-line style you want. Here
 ---
 
 **[2nd Amendment Website](https://2a.n1ghtw1re.com)** — A reminder that the right to resist tyranny belongs to every citizen, not just the rich or conservatives.
+
 **[Anarchy Doll](https://anarchy-doll.n1ghtw1re.com/)** — Where K-Pop perfection collides with punk rebellion and raw destruction.
+
 **[Basic Pleasure Model](https://bpm.n1ghtw1re.com)** — Bespoke replicants engineered to surpass human and corporate expectations.
+
 **[C1NDER5](https://c1nder5.n1ghtw1re.com)** — A signal forged from glitch, rust, and rhythm, rising from post-industrial wreckage.
+
 **[Circuit Breach](https://circuit-breach.neocities.org/)** — Cyberpunk blog dissecting the genre’s philosophy, themes, and modern impact.
+
 **[Code Heroes](https://code-heroes.n1ghtw1re.com)** — Highlighting pioneers who used technology to make the world better, not richer.
+
 **[The Collector](https://collector.n1ghtw1re.com)** — Tools to track, manage, and blog about your comic collection.
+
 **[Crazy Eddie’s Cyberdeck Emporium](https://eddies.n1ghtw1re.com)** — Affordable high-end tech for everyone—gear that doesn’t always play nice with the corps.
+
 **[Ellos Viven](http://ellos-viven.n1ghtw1re.com)** — Luxury eyewear designed to reveal the hidden reality beneath the surface.
-**[N1ghtw1re Github](https://github.com/n1ghtw1re)** — Open, ethical, and privacy-first tools for a decentralized web.
+
 **[Hackers Tarot](https://hackers-tarot.n1ghtw1re.com)** — A reimagined tarot for the digital age, mapping the forces shaping our technological world.
-**[N1ghtw1re Gumroad](https://n1ghtw1re.gumroad.com/)** — Support N1ghtw1re projects through our digital storefront.
+
 **[ImVexd](https://imvexd.n1ghtw1re.com)** — Gothic darkwave transmissions from a world consumed by technology.
+
 **[Interlinked Records](https://interlinked.n1ghtw1re.com)** — An underground label blending dub techno, industrial, and gothic synth from Cambodia.
+
 **[Into Ideaspace](https://ideaspace.n1ghtw1re.com)** — A manifesto reclaiming imagination as a human right against corporate control.
+
 **[N1GHTW1RE COLLECTIVE](https://n1ghtw1re.com)** — An anonymous collective fighting surveillance and corporate domination through digital liberation.
+
 **[N1ghtw1re Studios](https://studio.n1ghtw1re.com)** — A digital studio building retro-inspired, privacy-focused websites and media.
+
 **[The Running Man](https://runningman.n1ghtw1re.com)** — A deathmatch game show where survival is the only justice.
-**\[Simple Sabotage Field Manual]** — Coming soon.
+
 **[Synapse Express](https://synapse.n1ghtw1re.com)** — Encrypted mnemonic delivery across networks and minds.
+
 **[Taco Bell San Angeles](https://tacobell.n1ghtw1re.com/)** — In the future, every restaurant is Taco Bell.
+
 **[Tech Noir](https://technoir.n1ghtw1re.com)** — The ultimate retro nightclub, where the night never ends.
+
 **[TheDonStone](https://thedonstone.n1ghtw1re.com)** — Siem Reap-based producer crafting underground techno, bass, and dark ambient.
+
 **[Vinyl Violence](https://vinyl-violence.n1ghtw1re.com)** — Album deep dives, scene explorations, and rants from music’s edge.
 ---
 
