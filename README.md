@@ -42,8 +42,6 @@ If you're building something important and want to do it **outside the algorithm
 Portfolio
 You can find the latest sites we've been workin on here - **[The N1ghtw1re Collective](https://n1ghtw1re.com/collective)**
 
-Got it — I’ll reformat the list into the clean one-line style you want. Here’s the full conversion with shortened descriptions:
-
 ---
 
 **[2nd Amendment Website](https://2a.n1ghtw1re.com)** — A reminder that the right to resist tyranny belongs to every citizen, not just the rich or conservatives.
