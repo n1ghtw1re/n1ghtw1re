@@ -85,9 +85,8 @@ You can find the latest sites we've been workin on here - **[The N1ghtw1re Colle
 **[TheDonStone](https://thedonstone.n1ghtw1re.com)** — Siem Reap-based producer crafting underground techno, bass, and dark ambient.
 
 **[Vinyl Violence](https://vinyl-violence.n1ghtw1re.com)** — Album deep dives, scene explorations, and rants from music’s edge.
----
 
-Do you want me to make these even **tighter/more cryptic** (closer to hacker-BBS style), or keep them **clean and descriptive** like above?
+---
 
 ---
 
