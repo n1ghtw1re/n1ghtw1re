@@ -4,9 +4,9 @@ Welcome to the official GitHub for **N1ghtw1re Studios** — a digital studio fo
 
 We build open, ethical, and human-centered technology.
 
-Our Website: **[N1ghtw1re Studios](https://studio.n1ghtw1re.com/)**
-The Collective: **[N1ghtw1re Collective](https://n1ghtw1re.com)**
-The Operating System: **[n1ghtOS](https://os.n1ghtw1re.com)**
+- Our Website: **[N1ghtw1re Studios](https://studio.n1ghtw1re.com/)**
+- The Collective: **[N1ghtw1re Collective](https://n1ghtw1re.com)**
+- The Operating System: **[n1ghtOS](https://os.n1ghtw1re.com)**
 
 
 ---
